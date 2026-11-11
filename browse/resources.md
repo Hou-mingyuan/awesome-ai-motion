@@ -4,9 +4,15 @@
 
 本页只提供作者的源码、HTML、演示和工具链接，不收纳第三方源码。公开可读不等于获准复用；使用范围以原项目许可为准。
 
-118 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
+212 个作品附有资源入口 · [筛选源码或公开网页](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=any) · [相关工具](https://guanmo-ai.github.io/awesome-ai-motion/?page=all&resource=tool)
 
 公开作品网页也计入实现参考；只有网页入口时，不代表已提供完整工程或开源许可。
+
+## [模型发布概念短片](../cases/2103133462798483752.md) · @marcthecreatorr
+
+- **相关工具**：[作者回复链接的 code-video 制作 Skill](https://github.com/Changroro/code-video) · [MIT](https://github.com/Changroro/code-video/blob/main/LICENSE)
+  当前仓库提供通用绘制、渲染与制作流程。
+  [链接出处](https://x.com/marcthecreatorr/status/2103133477600206925) · 链接核对 2026-10-26 16:17 UTC
 
 ## [为 deckuse 做宣传动画](../cases/2104039666093572362.md) · @feiflow
 
@@ -20,11 +26,32 @@
   同一作者在主帖直接回复中提供的产品网页，不是这支宣传片的完整制作工程。
   [链接出处](https://x.com/21Terrence1/status/2109247274396389561) · 链接核对 2026-10-11 15:08 UTC
 
+## [自动扶梯的内部结构与循环](../cases/2109943963536998694.md) · @numaausaumon
+
+- **公开网页**：[扶梯结构在线体验](https://ask.jig.com/j/Rb09kjb4JdFJ)
+  [链接出处](https://x.com/numaausaumon/status/2109944268420956221) · 链接核对 2026-10-20 15:51 UTC
+
+## [咖啡机内部的萃取流程](../cases/2112220170727080328.md) · @numaausaumon
+
+- **公开网页**：[咖啡机的萃取交互](https://ask.jig.com/j/7Cd92G4MIkhl)
+  [链接出处](https://x.com/numaausaumon/status/2112220170727080328) · 链接核对 2026-10-26 06:26 UTC
+
+## [扭蛋机的交互式结构讲解](../cases/2111925285255868518.md) · @Voxyz\_ai
+
+- **相关工具**：[colorfigures 绘图工具](https://april-zhu.com/colorfigures) · 未标明许可
+  作者使用的通用绘图工具；此入口不是扭蛋机作品源码。
+  [链接出处](https://x.com/Voxyz_ai/status/2111925285255868518) · 链接核对 2026-10-20 15:51 UTC
+
 ## [文章开场片：模板复用与文字检查](../cases/2105033204319277506.md) · @FalconG\_J
 
 - **公开网页**：[文章开场片教程与公开指令](https://x.com/i/article/2101681282224881664)
   作者教程包含文章转动效、模板复用和文字重叠检查；公开指令加入了后续修正，单次用时是作者实验记录。
   [链接出处](https://x.com/FalconG_J/status/2104515621988040855) · 链接核对 2026-10-10 05:12 UTC
+
+## [Shazam 声音指纹的三维图解](../cases/2110127563238785480.md) · @numaausaumon
+
+- **公开网页**：[Shazam 算法交互演示](https://ask.jig.com/j/ZTJoPvMuKxWy)
+  [链接出处](https://x.com/numaausaumon/status/2110127563238785480) · 链接核对 2026-11-02 15:38 UTC
 
 ## [Showtime：动态设计技能样片](../cases/2107367735466573937.md) · @FavioVaz
 
@@ -39,6 +66,16 @@
   [链接出处](https://x.com/dotey/status/2102995791778369982) · 链接核对 2026-09-29 05:50 UTC
 - **公开网页**：[桃花源记：循文入境](https://s.baoyu.io/files/taohuayuan/index.html)
   [链接出处](https://x.com/dotey/status/2102940980379017293) · 链接核对 2026-09-29 05:50 UTC
+
+## [秋林铁轨的卡通三维漫游](../cases/2102543638689460488.md) · @ishuagra02
+
+- **公开网页**：[作者公开的交互场景](https://autumn-line.vercel.app/)
+  [链接出处](https://x.com/ishuagra02/status/2102543638689460488) · 链接核对 2026-10-22 08:41 UTC
+
+## [可玩的三维 Game Boy](../cases/2112186912060654023.md) · @numaausaumon
+
+- **公开网页**：[Game Boy 的游戏与拆解场景](https://ask.jig.com/j/mVwDz2UfKSat)
+  [链接出处](https://x.com/numaausaumon/status/2112186912060654023) · 链接核对 2026-10-26 06:26 UTC
 
 ## [毛绒角色：Sol 与 Opus 同参考对比](../cases/2105245039521628213.md) · @JakubAntowski
 
@@ -67,11 +104,34 @@
   作者在回复中链接的制作文章，含对应作品视频和原始指令；完整 MV 工程未在此公开。
   [链接出处](https://x.com/ppop123/status/2105230820327964758) · 链接核对 2026-09-30 10:06 UTC
 
+## [Earshot：每个声音都是代码](../cases/2111927727318245426.md) · @LexnLin
+
+- **相关工具**：[Earshot 代码音效工具](https://github.com/Leonxlnx/earshot/) · [MIT](https://github.com/Leonxlnx/earshot/blob/main/LICENSE)
+  作者说明该片使用此工具制作声音；此仓库是通用音效工具，未核得本片完整工程。
+  [链接出处](https://x.com/LexnLin/status/2111927730933575857) · 链接核对 2026-10-22 08:51 UTC
+
 ## [虚构日历 App 的全代码发布片](../cases/2104148233106723099.md) · @LexnLin
 
 - **直接源码**：[Tessel 发布片源码、配乐与成片](https://github.com/Leonxlnx/claude-launchvideo) · [MIT](https://github.com/Leonxlnx/claude-launchvideo/blob/f0906e8629fa524c7cedc1ac959bf987005ee846/LICENSE)
   包含 Tessel 发布片的画面代码、程序化配乐和渲染脚本。
   [链接出处](https://x.com/LexnLin/status/2104148235698774036) · 链接核对 2026-09-29 08:35 UTC
+
+## [方块球员的一对一篮球预告](../cases/2103592504386101512.md) · @databallr
+
+- **公开网页**：[作者的一对一篮球游戏入口](https://databallr.com/sixrings/iso/v3/)
+  [链接出处](https://x.com/databallr/status/2103592504386101512) · 链接核对 2026-10-26 15:15 UTC
+
+## [三维设备与火花串联的产品动效](../cases/2103825139964227999.md) · @MengTo
+
+- **相关工具**：[作者使用的 3D UI 组件库](https://threeui.com/) · 未标明许可
+  通用模板与组件库，不是本片工程；官网已读取，具体代码及素材许可未核实。
+  [链接出处](https://x.com/MengTo/status/2103825139964227999) · 链接核对 2026-10-19 08:47 UTC
+
+## [Claude 发布片：地平线与材质切换](../cases/2102457403119985005.md) · @chetaslua
+
+- **公开网页**：[作者提供的 CodePen 入口](https://codepen.io/editor/ChetasLua/pen/01a0ca42-115b-7f4c-b081-65d1f389afe5)
+  原帖直接链接，页面代码本轮未读取，不标记为已核验源码。
+  [链接出处](https://x.com/chetaslua/status/2102457403119985005) · 链接核对 2026-10-16 07:19 UTC
 
 ## [Claude 帮助小镇居民的发布动画](../cases/2102370144546889735.md) · @chetaslua
 
@@ -80,6 +140,14 @@
   [链接出处](https://x.com/chetaslua/status/2102370144546889735) · 链接核对 2026-09-29 06:18 UTC
 - **公开网页**：[小镇发布动画交互版](https://chetaslua.github.io/little-neighbourhood/)
   [链接出处](https://x.com/chetaslua/status/2102370144546889735) · 链接核对 2026-09-29 05:50 UTC
+
+## [Lumno 官网里的 SVG 动画](../cases/2113241980268593422.md) · @Kubai087
+
+- **直接源码**：[官网动效组件源码](https://github.com/kubai087/lumno-web/tree/main/src/components/home) · [MIT](https://github.com/kubai087/lumno-web/blob/main/LICENSE)
+  已读取官网说明、HeroSafariDemo 动效组件和 MIT 许可；此入口是官网动效工程，不是浏览器扩展本身。
+  [链接出处](https://x.com/Kubai087/status/2113241980268593422) · 链接核对 2026-10-26 06:26 UTC
+- **公开网页**：[官网内的产品动效](https://lumno.kubai.design/)
+  [链接出处](https://x.com/Kubai087/status/2113241980268593422) · 链接核对 2026-10-26 06:26 UTC
 
 ## [Notion 列权限：从四种方向到成片](../cases/2104610435571884086.md) · @wustep
 
@@ -98,6 +166,23 @@
 - **相关工具**：[作者分享的动效制作 Skills](https://github.com/charlie947/motion-graphics-skills) · [MIT](https://github.com/charlie947/motion-graphics-skills/blob/092a38dc8f3b84dc4887048a0f62bdb2e4abde25/LICENSE)
   教程配套工具集，不是该 Mac 发布片的完整源码。
   [链接出处](https://x.com/charliejhills/status/2104204601553777129) · 链接核对 2026-09-29 06:16 UTC
+
+## [reFresh 酸奶品牌动效](../cases/2108181230692807097.md) · @exploraX\_
+
+- **公开网页**：[作者关联落地页](https://moh4696.github.io/refresh-yoghurt/)
+  [链接出处](https://x.com/exploraX_/status/2108181230692807097) · 链接核对 2026-10-15 06:12 UTC
+
+## [LiteLLM Day 0：弧形地平线发布片](../cases/2102486455126020521.md) · @MisbahSy
+
+- **直接源码**：[LiteLLM 发布片对应示例源码](https://github.com/misbahsy/claude-horizon-animation/tree/main/skills/horizon-reel/examples/opus-5-5) · 未标明许可
+  作者原帖链接仓库，README 和 film.json 明确对应 Day 0 / LiteLLM。未见统一代码许可证，不推定可商用；素材、字体和音乐权利另计。
+  [链接出处](https://x.com/MisbahSy/status/2102486455126020521) · 链接核对 2026-10-16 07:19 UTC
+
+## [motion-use：三维时间线宣传片](../cases/2108783389704929381.md) · @leeguooooo
+
+- **直接源码**：[对应 102 秒影片工程（MIT）](https://github.com/leeguooooo/motion-use/tree/main/examples/motion-use-promo) · MIT
+  已核对 film.json 时长 102 秒及 composition/draw.js；这是具体影片示例，非仅工具首页。未独立运行。
+  [链接出处](https://x.com/leeguooooo/status/2108783389704929381) · 链接核对 2026-10-16 07:22 UTC
 
 ## [HyperFrames 风格化广告实验](../cases/2104595346882175311.md) · @washow\_cfo
 
@@ -154,10 +239,40 @@
 
 - **公开网页**：[交互体验](https://airsup.ai/rocket-engine)
 
+## [用动画解释 UX 设计决策](../cases/2104206095313215591.md) · @moguzbulbul
+
+- **相关工具**：[作者的蓝图动画 Skill 与示例](https://github.com/moguzbulbul/blueprint-animation) · [CC BY-NC 4.0](https://github.com/moguzbulbul/blueprint-animation/blob/29aa30b83db4632daf586420c52a251e7dac2d92/LICENSE)
+  可复用的蓝图动画工具，附示例场景；不是原帖完整工程的复现声明。
+  [链接出处](https://github.com/moguzbulbul/blueprint-animation/blob/29aa30b83db4632daf586420c52a251e7dac2d92/README.md) · 链接核对 2026-10-20 15:51 UTC
+
 ## [Claude 模型发展时间线](../cases/2102463796149440888.md) · @superalesha
 
 - **相关工具**：[作者的手绘 Canvas 动画 Skill](https://github.com/alesha-pro/tools/tree/main/skills/hand-drawn-canvas-animation) · [MIT](https://github.com/alesha-pro/tools/blob/90e966201add3ff41dc4ebd1348165c0cb2d5eab/LICENSE)
   [链接出处](https://x.com/superalesha/status/2102463796149440888) · 链接核对 2026-09-29 06:18 UTC
+
+## [五座日本建筑的线框搭建](../cases/2105746986339283305.md) · @yoshifujidesign
+
+- **公开网页**：[作者演示及页面实现代码（许可未注明）](https://re-presentation.jp/tool/KigumiArchitecture.html)
+  页面有实现代码，未找到开放源码许可。
+  [链接出处](https://x.com/yoshifujidesign/status/2105746986339283305) · 链接核对 2026-10-16 06:52 UTC
+
+## [轨道六要素的交互式三维讲解](../cases/2105200070446751750.md) · @getBack\_1969\_
+
+- **公开网页**：[作者公开的交互场景](https://ki-math.github.io/orbital-elements-viewer/)
+  [链接出处](https://x.com/getBack_1969_/status/2105200070446751750) · 链接核对 2026-10-22 10:25 UTC
+- **直接源码**：[轨道六要素的作品源码](https://github.com/Ki-math/orbital-elements-viewer) · 未标明许可
+  仓库README链接同一演示并列出对应场景与轨道计算文件；未发现整体许可证。
+  [链接出处](https://ki-math.github.io/orbital-elements-viewer/) · 链接核对 2026-10-22 10:31 UTC
+
+## [用三维轨迹讲解倒车入库](../cases/2113306254647120334.md) · @RyanSael
+
+- **公开网页**：[作者公开的交互讲解](https://sael.net/parking)
+  [链接出处](https://x.com/RyanSael/status/2113306254647120334) · 链接核对 2026-10-23 05:16 UTC
+
+## [自行车刹车与转向的三维讲解](../cases/2107111191210520608.md) · @RyanSael
+
+- **公开网页**：[作者公开的在线体验](https://sael.net/bike-brake)
+  [链接出处](https://x.com/RyanSael/status/2107111191210520608) · 链接核对 2026-10-20 17:09 UTC
 
 ## [九种 KV Cache 讲解风格](../cases/2107408409859359211.md) · @LufzzLiz
 
@@ -168,11 +283,42 @@
   通用制作 Skill，与上面的 KV Cache 示例源码分开标记。
   [链接出处](https://x.com/LufzzLiz/status/2107408413458309193) · 链接核对 2026-10-06 16:26 UTC
 
+## [拿破仑野战炮的结构可视化](../cases/2107449104926482912.md) · @thebuggeddev
+
+- **公开网页**：[作者作品体验入口](https://cannon.wasmer.app/)
+  作者原帖链接；本轮未验证完整交互与可用性。
+  [链接出处](https://x.com/thebuggeddev/status/2107449104926482912) · 链接核对 2026-10-19 09:12 UTC
+
 ## [Huashu：白板式讲解样片](../cases/2107018546194882678.md) · @AlchainHust
 
 - **相关工具**：[huashu-art-motion 动画工具](https://github.com/alchaincyf/huashu-art-motion) · [MIT](https://github.com/alchaincyf/huashu-art-motion/blob/57d67608ab458f57d9b153b1a2831b921e22498b/LICENSE)
   代码和文档为 MIT；字体、笔顺数据各有许可，花叔角色及其示范影像仅供演示。未核得本条视频整体复用许可。
   [链接出处](https://x.com/AlchainHust/status/2107018546194882678) · 链接核对 2026-10-08 15:01 UTC
+
+## [把普通代码变成神经网络](../cases/2111097422810169575.md) · @dotey
+
+- **相关工具**：[作者参考的讲解视频 Skill](https://github.com/JimLiu/baocut/blob/c4689036fd68dcec56ff3c0c4780c62c871accbf/skills/baocut/built-in-skills/explainer-video/SKILL.md) · [BaoCut Community License 1.0](https://github.com/JimLiu/baocut/blob/main/LICENSE)
+  通用制作工具，不是本片工程；采用附带限制的源码可见许可。
+  [链接出处](https://x.com/dotey/status/2111097422810169575) · 链接核对 2026-10-18 08:03 UTC
+
+## [AI 服务器的拆解与散热示意](../cases/2113557631025455294.md) · @0xbobaaa
+
+- **公开网页**：[AI 服务器拆解演示](https://inside-ai-server.vercel.app/)
+  [链接出处](https://x.com/0xbobaaa/status/2113557631025455294) · 链接核对 2026-10-26 06:26 UTC
+
+## [城市中的假设海啸模拟](../cases/2103121980685955247.md) · @akira\_papa\_IT
+
+- **直接源码**：[海啸假设模拟源码](https://github.com/Akira-Papa/tsunami-bousai-moshimo-saigen) · [MIT](https://github.com/Akira-Papa/tsunami-bousai-moshimo-saigen/blob/main/LICENSE)
+  作者旧仓库地址重定向至此。代码采用 MIT；地理数据与其他第三方资料各自适用来源条款。模拟不是预测。
+  [链接出处](https://x.com/akira_papa_IT/status/2103121980685955247) · 链接核对 2026-10-24 12:19 UTC
+- **公开网页**：[假设海啸的城市模拟](https://share.akirafunakoshi.com/tsunami-simulation/)
+  [链接出处](https://x.com/akira_papa_IT/status/2103121980685955247) · 链接核对 2026-10-24 12:19 UTC
+
+## [喷气机从工厂走向跑道](../cases/2109989449673347271.md) · @konstantinsaifo
+
+- **公开网页**：[作者作品体验入口](https://airsup.ai/lab/jet-plant)
+  作者原帖提供的入口；本轮读取返回 403，未核得源码或许可。
+  [链接出处](https://x.com/konstantinsaifo/status/2109989449673347271) · 链接核对 2026-10-19 08:47 UTC
 
 ## [品牌标志趋同的动效讲解](../cases/2105580875299836388.md) · @charliejhills
 
@@ -186,11 +332,33 @@
   原帖注明使用此工具；代码和文档为 MIT，角色、字体等另有边界。本条历史讲解片的完整工程及整体许可未核得。
   [链接出处](https://x.com/aiRobertDaily/status/2107815114745487588) · 链接核对 2026-10-08 14:49 UTC
 
+## [差速器如何让两侧车轮不同速](../cases/2113481843119198558.md) · @RyanSael
+
+- **公开网页**：[作者公开的交互讲解](https://sael.net/diff)
+  [链接出处](https://x.com/RyanSael/status/2113481843119198558) · 链接核对 2026-10-23 05:16 UTC
+
 ## [Lemo-Opuscar：白板风格创作教学片](../cases/2104070024575242622.md) · @lemomo\_ai
 
 - **相关工具**：[Lemo-Opuscar 视频制作 Skill 与风格工具集](https://github.com/lemomo-ai/lemo-opuscar) · [MIT](https://github.com/lemomo-ai/lemo-opuscar/blob/81e890365294e4a724c025fa11d9914ea21a7e86/LICENSE)
   作者的制作 Skill 与风格样片集；未核得这支教学片的独立工程。代码 MIT，指南、风格文档与影片为 CC BY 4.0。
   [链接出处](https://x.com/lemomo_ai/status/2103812417457463552) · 链接核对 2026-09-29 08:35 UTC
+
+## [Ship 40：桌面上的完整飞行](../cases/2110800680407757141.md) · @konstantinsaifo
+
+- **公开网页**：[作者公开的在线体验](https://airsup.ai/lab/ship-40)
+  [链接出处](https://x.com/konstantinsaifo/status/2110800680407757141) · 链接核对 2026-10-20 17:09 UTC
+
+## [电子轨道中的概率流可视化](../cases/2111129290464964764.md) · @ottollm
+
+- **公开网页**：[电子轨道交互网页](https://ottollm.pages.dev/atom)
+  作者回复提供的入口；本轮读取返回 403，未核得源码或许可。
+  [链接出处](https://x.com/ottollm/status/2111129292801282543) · 链接核对 2026-10-18 07:58 UTC
+
+## [狮子岩：斯里兰卡历史故事动画](../cases/2103054687016825162.md) · @hashir
+
+- **直接源码**：[对应完整动画源码（代码 MIT）](https://github.com/hashmil/sigiriya) · MIT
+  已核对作者原帖、README 和 index.html；参考照片及其衍生图另为 CC BY-SA 3.0。未独立运行。
+  [链接出处](https://x.com/hashir/status/2103054687016825162) · 链接核对 2026-10-16 07:22 UTC
 
 ## [3500 条整数数列的交互式 3D 图谱](../cases/2104809653947265030.md) · @decompwlj
 
@@ -225,6 +393,55 @@
   作者原帖链接到对应作品页面；HTTP 可达，完整工程与整体复用许可另行核对。
   [链接出处](https://x.com/decompwlj/status/2108392469880832000) · 链接核对 2026-10-09 04:12 UTC
 
+## [从近处还是远处捡罐子](../cases/2103115017755500561.md) · @masaya\_1980
+
+- **直接源码**：[捡罐子互动演示与内联实现](https://www.kakeru-d.jp/lab/akikan/) · 未标明许可
+  页面包含可读的 HTML、CSS 与内联 JavaScript；代码许可暂未明确。
+  [链接出处](https://www.kakeru-d.jp/blog/claude-animation-akikan/) · 链接核对 2026-10-26 16:17 UTC
+
+## [家乡地图与城市图形的代码介绍片](../cases/2112187129145208871.md) · @jing548799
+
+- **相关工具**：[Lemo-Opuscar 通用代码影片工具](https://github.com/lemomo-ai/lemo-opuscar) · [MIT](https://github.com/lemomo-ai/lemo-opuscar/blob/main/LICENSE)
+  代码和文档采用MIT；仓库示例影片另用CC BY4.0并有素材/语音例外，不外推本支家乡短片的许可。
+  [链接出处](https://x.com/jing548799/status/2112187129145208871) · 链接核对 2026-11-02 15:38 UTC
+
+## [ESP32 引脚与信号的交互学习台](../cases/2113003653644619955.md) · @abderrahmen\_g
+
+- **直接源码**：[ESP32 交互实验站代码](https://github.com/agharsallah/esp-labs-web) · [MIT](https://github.com/agharsallah/esp-labs-web/blob/main/LICENSE)
+  [链接出处](https://x.com/abderrahmen_g/status/2113003653644619955) · 链接核对 2026-11-02 09:52 UTC
+- **公开网页**：[ESP32 交互实验站](https://esp-labs-web.vercel.app/)
+  [链接出处](https://github.com/agharsallah/esp-labs-web) · 链接核对 2026-11-02 09:52 UTC
+
+## [望远镜光路与月面的交互图解](../cases/2115438976203153742.md) · @RyanSael
+
+- **公开网页**：[望远镜光路交互演示](https://sael.net/light-bucket)
+  [链接出处](https://x.com/RyanSael/status/2115438976203153742) · 链接核对 2026-11-02 09:52 UTC
+
+## [氧分子从空气到细胞的交互旅程](../cases/2115565230772392277.md) · @techartist\_
+
+- **公开网页**：[氧气运输交互课程](https://iamtechartist.com/breathing-and-respiration/)
+  [链接出处](https://x.com/techartist_/status/2115565230772392277) · 链接核对 2026-11-02 08:50 UTC
+
+## [十二导联心电图与三维心脏联动](../cases/2115898852704456739.md) · @therealRYC
+
+- **直接源码**：[作者公开的单页构建代码](https://github.com/therealryc/heart-in-twelve-leads) · 未标明许可
+  仓库仅含构建后的页面；未见单独项目许可，内含依赖与字体另有条款。作者声明教学内容尚未逐项核实。
+  [链接出处](https://therealryc.github.io/heart-in-twelve-leads/) · 链接核对 2026-11-02 08:50 UTC
+- **公开网页**：[十二导联交互演示](https://therealryc.github.io/heart-in-twelve-leads/)
+  [链接出处](https://x.com/therealRYC/status/2115898852704456739) · 链接核对 2026-11-02 08:50 UTC
+
+## [一个动物细胞的状态变化图](../cases/2116423724379656329.md) · @kevin\_t\_ngo
+
+- **直接源码**：[动物细胞动画目录](https://github.com/kevintngo/statechart-art/tree/main/one-becomes-two) · [MIT](https://github.com/kevintngo/statechart-art/blob/main/LICENSE)
+  [链接出处](https://kevintngo.github.io/statechart-art/one-becomes-two/) · 链接核对 2026-11-02 09:52 UTC
+- **公开网页**：[动物细胞生命周期演示](https://kevintngo.github.io/statechart-art/one-becomes-two/)
+  [链接出处](https://x.com/kevin_t_ngo/status/2116423724379656329) · 链接核对 2026-11-02 09:52 UTC
+
+## [家庭电路与断路器的交互课程](../cases/2116555241802105072.md) · @misat0x
+
+- **公开网页**：[家庭电路交互课程](https://homegrid-deploy.vercel.app/)
+  [链接出处](https://x.com/misat0x/status/2116555241802105072) · 链接核对 2026-11-02 08:50 UTC
+
 ## [Opus 视觉设计测试](../cases/2102514581684052169.md) · @other\_\_reality
 
 - **直接源码**：[P(doom) MV 场景与渲染源码](https://github.com/JohnHeibel/PDoomVideo) · 未标明许可
@@ -238,17 +455,43 @@
 - **直接源码**：[作者公开的作品工程与制作资料](https://github.com/Vincentwei1021/mg-styles-15) · [MIT](https://github.com/Vincentwei1021/mg-styles-15/blob/main/LICENSE)
   [链接出处](https://x.com/VincentWei93/status/2107028148881899763) · 链接核对 2026-10-13 09:02 UTC
 
+## [二十种代码动画风格](../cases/2104086740600254919.md) · @yasinozmeen
+
+- **直接源码**：[二十种动画风格的代码目录](https://github.com/yasinozmeen/animasyon-stil-katalogu) · 未标明许可
+  作者按二十种风格提供 HTML 与音频脚本；未发现整体代码许可证，字体另有许可。
+  [链接出处](https://github.com/yasinozmeen/animasyon-stil-katalogu/blob/09e451d8b64ec85c1ec035fd39e00725c1ed5593/README.md) · 链接核对 2026-10-20 15:51 UTC
+
 ## [单页文件生成的视觉演示](../cases/2102893186330841502.md) · @JustinPerea
 
 - **直接源码**：[Ex Nihilo 单文件 HTML（可直接运行）](https://justinperea.com/lab/ex-nihilo/ex-nihilo.html) · 未标明许可
   作者提供的完整画面与声音代码；网页可运行或另存为 HTML，未见再分发许可。
   [链接出处](https://justinperea.com/lab/ex-nihilo) · 链接核对 2026-09-29 05:50 UTC
 
+## [茶杯、花朵与纸片动画](../cases/2102501773705670994.md) · @chetaslua
+
+- **公开网页**：[作者 CodePen 页面](https://codepen.io/editor/ChetasLua/pen/01a0cadf-5b81-756f-8647-8cf5a47e7adf)
+  作者原帖提供此入口；页面内容本次未能读取，未核得完整源码或复用许可。
+  [链接出处](https://x.com/chetaslua/status/2102501773705670994) · 链接核对 2026-10-14 04:58 UTC
+
 ## [Anidoodle：代码绘制与配乐样片](../cases/2107086004964282814.md) · @alexgreensh
 
 - **相关工具**：[Anidoodle 代码绘画工具](https://github.com/alexgreensh/anidoodle) · [Apache-2.0](https://github.com/alexgreensh/anidoodle/blob/f649db6eb823562ae41608119beb53f04d9d7c05/LICENSE)
   作者同帖回复提供链接，仓库包含绘画、动效和声音制作工具。
   [链接出处](https://x.com/alexgreensh/status/2107088543902318759) · 链接核对 2026-10-06 16:26 UTC
+
+## [PUNCTUM：点阵字体的发布动效](../cases/2107046643904426453.md) · @sundyme
+
+- **直接源码**：[35 Lights 影片的画面与配乐源码](https://github.com/sundyme/punctum/tree/main/films/35-lights) · [MIT](https://github.com/sundyme/punctum/blob/main/LICENSE)
+  仓库将字体许可列为 OFL 1.1、代码与网站列为 MIT；不据此推断其他第三方素材权利。
+  [链接出处](https://x.com/sundyme/status/2107108673407627533) · 链接核对 2026-10-23 05:30 UTC
+- **公开网页**：[PUNCTUM 交互字体样张](https://sundyme.github.io/punctum/)
+  [链接出处](https://github.com/sundyme/punctum) · 链接核对 2026-10-23 05:30 UTC
+
+## [FUNTECH 像素文字与三维网页动效](../cases/2109836860067606721.md) · @yoshi15\_funtech
+
+- **公开网页**：[作者作品体验入口](https://ai.funtech.inc/)
+  作者原帖链接；本轮未验证完整交互与可用性。
+  [链接出处](https://x.com/yoshi15_funtech/status/2109836860067606721) · 链接核对 2026-10-19 09:24 UTC
 
 ## [蚂蚁群落的代码动画](../cases/2102742924148830211.md) · @hanifproduktif
 
@@ -264,11 +507,28 @@
   提供制作工具和示例引擎；不包含作者的私人会话记录。内置引擎另附 MIT 许可。
   [链接出处](https://x.com/jake11moran/status/2103247490237825416) · 链接核对 2026-09-29 06:17 UTC
 
+## [184 种 SwiftUI 文字动效](../cases/2109056620831649927.md) · @amos\_gyamfi
+
+- **直接源码**：[对应文字动效合集（MIT）](https://github.com/amosgyamfi/SwiftUI-Agent-Thinking-Text-Animations) · [MIT](https://github.com/amosgyamfi/SwiftUI-Agent-Thinking-Text-Animations/blob/main/LICENSE)
+  前两种为作者手工实现，其他 182 种由 Opus 5.5 扩展；不是整片视频素材的统一许可。
+  [链接出处](https://x.com/amos_gyamfi/status/2109056620831649927) · 链接核对 2026-10-16 16:06 UTC
+
 ## [Roblox 魔法特效修改试验](../cases/2107484860717973791.md) · @JohnKlerAI
 
 - **公开网页**：[Roblox 特效展示场](https://www.roblox.com/games/115404945679619/Effects-Showcase)
   作者原帖提供的其他特效展示场，网页标题对应；本轮未启动 Roblox 客户端。
   [链接出处](https://x.com/JohnKlerAI/status/2107484860717973791) · 链接核对 2026-10-06 16:26 UTC
+
+## [极光、雪山与湖面的单文件 Shader](../cases/2111786470935544214.md) · @ottollm
+
+- **公开网页**：[作者极光交互网页](https://ottollm.pages.dev/aurora)
+  作者对应回复提供的入口；本轮读取返回 403，未核得源码或许可。
+  [链接出处](https://x.com/ottollm/status/2111786474454855968) · 链接核对 2026-10-19 08:34 UTC
+
+## [让网页长满花朵](../cases/2106006478998180260.md) · @thebuggeddev
+
+- **公开网页**：[作者公开的在线体验](https://overgrow.thebuggeddev.workers.dev/)
+  [链接出处](https://x.com/thebuggeddev/status/2106006478998180260) · 链接核对 2026-10-20 17:09 UTC
 
 ## [同一角色穿越漫画、像素与蒸汽波](../cases/2107641558073803075.md) · @AlchainHust
 
@@ -276,11 +536,58 @@
   代码和文档为 MIT；字体、笔顺数据各有许可，花叔角色及其示范影像仅供演示。未核得本条视频整体复用许可。
   [链接出处](https://x.com/AlchainHust/status/2107641558073803075) · 链接核对 2026-10-08 14:49 UTC
 
+## [THE CHEF / THE DISH：Motion DSL 动画](../cases/2108956236742074521.md) · @sofwath
+
+- **直接源码**：[对应 Motion DSL 动画代码](https://gist.github.com/Sofwath/c6363720ac7e26a5a2d766bf25d9ae78) · 未标明许可
+  作者直接提供的 dslcode.f；内容明确 THE CHEF / RECIPE / DISH 的时间线。未注明许可，未独立运行。
+  [链接出处](https://x.com/sofwath/status/2108956236742074521) · 链接核对 2026-10-16 07:22 UTC
+
 ## [Roblox 放射状效果展示](../cases/2108929788517789892.md) · @JohnKlerAI
 
 - **公开网页**：[Effects Showcase 作品页](https://www.roblox.com/games/115404945679619/Effects-Showcase)
   作者原帖直接提供此 Roblox 作品页；页面可读取，游玩需要 Roblox 客户端及相应平台条件，未完整试玩。
   [链接出处](https://x.com/JohnKlerAI/status/2108929788517789892) · 链接核对 2026-10-10 15:00 UTC
+
+## [彩色按钮与胶囊形状的变奏](../cases/2103485566570369333.md) · @\_\_morse
+
+- **直接源码**：[单页动画与渲染脚本](https://gist.github.com/remorses/3d467b50a0519ef7859823046dc9c427) · 未标明许可
+  公开的 HTML、音频分析与逐帧渲染脚本；未见整体许可证，未核得音轨复用权利。
+  [链接出处](https://x.com/__morse/status/2103485566570369333) · 链接核对 2026-11-03 09:18 UTC
+
+## [184 种 SwiftUI 文字动画合集](../cases/2104216792877154656.md) · @amos\_gyamfi
+
+- **直接源码**：[SwiftUI 文字动画合集代码](https://github.com/amosgyamfi/SwiftUI-Agent-Thinking-Text-Animations) · [MIT](https://github.com/amosgyamfi/SwiftUI-Agent-Thinking-Text-Animations/blob/main/LICENSE)
+  作者说明其中两项由自己编写，其余由 Opus 5.5 扩展；本条按整个合集记录。
+  [链接出处](https://x.com/amos_gyamfi/status/2104216792877154656) · 链接核对 2026-11-02 09:52 UTC
+
+## [像素特效库的施法、冲击与变色](../cases/2116062680121540611.md) · @rehan\_shei
+
+- **直接源码**：[像素特效代码与制作 Skill](https://github.com/patch-gg/pixelfx) · [MIT](https://github.com/patch-gg/pixelfx/blob/main/LICENSE)
+  代码与特效采用 MIT；Patch Pixel 字体不在该许可内。原帖称232项，保存的仓库列出244项，录制版本可能不同。
+  [链接出处](https://x.com/rehan_shei/status/2116062680121540611) · 链接核对 2026-11-03 09:18 UTC
+- **公开网页**：[像素特效交互画廊](https://patch-gg.github.io/pixelfx/)
+  [链接出处](https://github.com/patch-gg/pixelfx) · 链接核对 2026-11-02 08:50 UTC
+
+## [悟空穿越山谷的跑酷](../cases/2113427367477878971.md) · @aniketjart
+
+- **公开网页**：[龙珠同人跑酷作品入口](https://app.usecrayon.ai/play/3a9001a5-28fa-4ae0-ba5c-3b068d1912a4)
+  [链接出处](https://x.com/aniketjart/status/2113427367477878971) · 链接核对 2026-10-26 06:26 UTC
+
+## [Clawd 笔触动画的白昼示例](../cases/2102860128680845789.md) · @other\_\_reality
+
+- **相关工具**：[笔触动画起步工程](https://github.com/JohnHeibel/ClaudeAnimationBase) · MIT
+  作者提供的通用起步工程，README 明示测试动画使用 Opus 5.5；MIT 仅指代码，素材权利单独核对。
+  [链接出处](https://x.com/other__reality/status/2102865334298632574) · 链接核对 2026-10-19 09:12 UTC
+
+## [Clawd 与 Codey 的游戏战斗](../cases/2107502672907506162.md) · @LexnLin
+
+- **公开网页**：[作者公开的交互场景](https://merge-conflict-delta.vercel.app/)
+  [链接出处](https://x.com/LexnLin/status/2107502672907506162) · 链接核对 2026-10-22 08:41 UTC
+
+## [Roadster 夜间飞行与警车追逐](../cases/2111609842184130875.md) · @viktoroddy
+
+- **公开网页**：[作者公开的在线体验](https://roadster-sandy.vercel.app/)
+  [链接出处](https://x.com/viktoroddy/status/2111609842184130875) · 链接核对 2026-10-20 17:09 UTC
 
 ## [鸮鹦鹉繁殖季：演讲结尾像素动画](../cases/2104002636513206422.md) · @simonw
 
@@ -294,6 +601,12 @@
 - **相关工具**：[AITuber OnAir 虚拟主播工具集](https://github.com/shinshin86/aituber-onair/tree/bf3452d0e4b743a40119c9d86ae02ff6bf1c0972) · [MIT](https://github.com/shinshin86/aituber-onair/blob/bf3452d0e4b743a40119c9d86ae02ff6bf1c0972/LICENSE)
   作者原帖直接链接的是通用 AI 虚拟主播工具仓库。未找到与帖子中单图生成 Live2D 风格 avatar（眨眼、头发、表情、口型同步）精确对应的公开样本源码。node-live2d-newsdesk 是纵向新闻视频渲染示例，但要求用户自行提供已授权的 Cubism 4 模型和 Live2D Cubism Core；react-single-image-avatar-app 只让单张 PNG/JPG 做整体 Bounce 或 Puppet Wobble，不是 Live2D 生成器。因此仅索引为工具，不作为该具体头像作品源码，也不把原帖 URL 当作独立 demo 网页。MIT 覆盖仓库代码，不自动覆盖 avatar 原图、Live2D 模型或 SDK。
   [链接出处](https://x.com/shinshin86/status/2105556318132310361) · 链接核对 2026-10-01 16:08 UTC
+
+## [Clawd 与夜空流星](../cases/2102860657158992120.md) · @other\_\_reality
+
+- **相关工具**：[笔触动画起步工程](https://github.com/JohnHeibel/ClaudeAnimationBase) · MIT
+  作者提供的通用起步工程，README 明示测试动画使用 Opus 5.5；MIT 仅指代码，素材权利单独核对。
+  [链接出处](https://x.com/other__reality/status/2102865334298632574) · 链接核对 2026-10-19 09:12 UTC
 
 ## [OmaCRT：从关节曲线到像素步态](../cases/2105187523630944530.md) · @stefanomainardi
 
@@ -320,11 +633,36 @@
   同作者直接回复该原帖的作品链接，已确认网页可访问；作品工程与整体复用许可未核得。
   [链接出处](https://x.com/the_vibepreneur/status/2107496993111355645) · 链接核对 2026-10-09 04:02 UTC
 
+## [毁灭博士积木的分步搭建](../cases/2103280356371702076.md) · @SammmAing
+
+- **直接源码**：[积木动画的单页工程](https://github.com/Sam1983Aing/doom-in-bricks) · 未标明许可
+  公开可读的非官方角色积木演示，未见整体许可证；不表示取得角色或品牌素材许可。
+  [链接出处](https://x.com/SammmAing/status/2103280356371702076) · 链接核对 2026-11-03 09:18 UTC
+- **公开网页**：[在线查看积木搭建](https://sam1983aing.github.io/doom-in-bricks/)
+  [链接出处](https://x.com/SammmAing/status/2103280356371702076) · 链接核对 2026-11-03 09:18 UTC
+
+## [Live2D 角色的哈欠与喷嚏动作](../cases/2103384608301830297.md) · @rotejin
+
+- **相关工具**：[Live2D 动作生成与预览工具](https://github.com/shinshin86/live2d-add-motion-sample-web-ui) · [MIT](https://github.com/shinshin86/live2d-add-motion-sample-web-ui/blob/main/LICENSE)
+  shinshin86公开的通用动作工具，作者说明略有改动；角色模型不包含在仓库中，须遵守其单独许可。
+  [链接出处](https://x.com/rotejin/status/2103384608301830297) · 链接核对 2026-11-02 15:38 UTC
+
+## [小王子：跨越星辰的场景预告](../cases/2109962425512734739.md) · @Saccc\_c
+
+- **公开网页**：[作者作品体验入口](https://littleprince.dev/)
+  作者原帖链接；本轮未验证完整交互与可用性。
+  [链接出处](https://x.com/Saccc_c/status/2109962425512734739) · 链接核对 2026-10-19 09:24 UTC
+
 ## [Anatomy：会动的机器说明图](../cases/2108948624004526516.md) · @wheresryan22
 
 - **相关工具**：[Anatomy 工具与示例](https://github.com/wheresryan22/anatomy) · [MIT](https://github.com/wheresryan22/anatomy/blob/dbf697a527bbf7d358668e1557cb1e35ff725d46/LICENSE)
   原作者的通用 Skill 与示例；本案例视频的独立工程尚未单独核对。根 MIT 许可不自动覆盖另行使用的素材。
   [链接出处](https://github.com/wheresryan22/anatomy/blob/dbf697a527bbf7d358668e1557cb1e35ff725d46/README.md) · 链接核对 2026-10-11 15:08 UTC
+
+## [Gigacity：无尽程序化城市](../cases/2108203997480063196.md) · @RyanSael
+
+- **公开网页**：[作者公开的在线体验](https://sael.net/gigacity)
+  [链接出处](https://x.com/RyanSael/status/2108203997480063196) · 链接核对 2026-10-20 17:09 UTC
 
 ## [Spiderbench：浏览器里的城市荡行](../cases/2104001664793600012.md) · @xikhar
 
@@ -344,19 +682,44 @@
   已核对作者分享的公开入口；本次未完成页面运行验证。
   [链接出处](https://x.com/edwinarbus/status/2102463454485610511) · 链接核对 2026-09-29 05:50 UTC
 
+## [Athenaion：代码生成的古希腊世界](../cases/2111582260818239777.md) · @LexnLin
+
+- **直接源码**：[Athenaion 场景工程](https://github.com/Leonxlnx/athenaion) · MIT
+  工程代码为 MIT；参考图等素材的权利单独核对。
+  [链接出处](https://x.com/LexnLin/status/2111592989545951522) · 链接核对 2026-10-18 08:02 UTC
+
 ## [程序化建筑：从 Blender 节点到网页城市](../cases/2104548658171834749.md) · @chirovisuals
 
 - **直接源码**：[程序化建筑完整工程与 Blender 文件](https://github.com/achrefelouafi/ProceduralBuildingsThreeJS) · [MIT](https://github.com/achrefelouafi/ProceduralBuildingsThreeJS/blob/6c19f1b1f14408353989ad26cda27f1e1ede5e91/LICENSE)
   [链接出处](https://proceduralbuildings.chirostudio.xyz/) · 链接核对 2026-09-29 06:16 UTC
 - **公开网页**：[交互体验](https://proceduralbuildings.chirostudio.xyz/)
 
+## [重建晨风起始村落](../cases/2113715036296499441.md) · @genex\_games
+
+- **公开网页**：[Genex 场景入口（需客户端）](https://genex.games/morrowind-start-scene)
+  该作品页通过 Genex 客户端打开场景；本轮只核对页面，未安装或运行客户端。
+  [链接出处](https://x.com/genex_games/status/2113715036296499441) · 链接核对 2026-10-26 06:26 UTC
+
 ## [可拖动黑洞的引力透镜实验室](../cases/2103117246860345550.md) · @Voxyz\_ai
 
 - **公开网页**：[交互体验](https://blackhole.voxyz.ai/)
 
+## [从金色海面到风暴](../cases/2113333862625648715.md) · @LexnLin
+
+- **直接源码**：[海面场景与影片渲染源码](https://github.com/Leonxlnx/open-water) · [MIT](https://github.com/Leonxlnx/open-water/blob/main/LICENSE)
+  MIT 仅覆盖代码；录制音频另按 CREDITS.md 标明的 CC BY 3.0 与 CC BY-SA 4.0 条款使用。
+  [链接出处](https://x.com/LexnLin/status/2113333862625648715) · 链接核对 2026-10-24 12:19 UTC
+- **公开网页**：[可调天气的海面演示](https://leonxlnx.github.io/open-water/)
+  [链接出处](https://github.com/Leonxlnx/open-water) · 链接核对 2026-10-24 12:19 UTC
+
 ## [数据中心内部的交互式 3D 导览](../cases/2102740041621762166.md) · @RyanSael
 
 - **公开网页**：[交互体验](https://datacenter.lab.sael.net/)
+
+## [纳帕利海岸的程序化航拍](../cases/2113720560920428685.md) · @LexnLin
+
+- **直接源码**：[海岸航拍的 WebGL2 场景与渲染脚本](https://github.com/Leonxlnx/napali) · [MIT](https://github.com/Leonxlnx/napali/blob/main/LICENSE)
+  [链接出处](https://x.com/LexnLin/status/2113720831448846481) · 链接核对 2026-10-24 12:19 UTC
 
 ## [夕阳小巷：水彩风箱庭](../cases/2105990418886480092.md) · @akakuma0219
 
@@ -364,11 +727,23 @@
   从作者原帖所链箱庭目录的第 25 项进入，作品名与 Akakumaya 署名对应；本轮未完整验证场景操作。
   [链接出处](https://claude.ai/artifact/PPSchejbnywNbPnAurCBSk) · 链接核对 2026-10-06 16:26 UTC
 
+## [金色时刻的日本寺院](../cases/2110657641831956870.md) · @LexnLin
+
+- **直接源码**：[完整影片工程（MIT）](https://github.com/Leonxlnx/golden-temple) · [MIT](https://github.com/Leonxlnx/golden-temple/blob/97fd9ec35ee5c0f02769addb4e35cb5e22f951dd/LICENSE)
+  代码 MIT；配乐单独采用 CC BY 4.0，不包含在代码许可内。未独立运行或复现。
+  [链接出处](https://x.com/LexnLin/status/2110657654808830313) · 链接核对 2026-10-16 06:39 UTC
+
 ## [Hollowmere：五种画风的可探索三维世界](../cases/2106493673425047896.md) · @LexnLin
 
 - **公开网页**：[Hollowmere 公开交互世界](https://claude.ai/artifact/FTUS2WmKKUFaqTKVHE7k4f)
   作者原帖直链，网页提供探索控制与五种画风切换。已检查 Natural 到 Painterly 的界面切换；公开网页不代表完整工程或开源许可。
   [链接出处](https://x.com/LexnLin/status/2106493673425047896) · 链接核对 2026-10-04 08:31 UTC
+
+## [24 种程序化动物](../cases/2105723245722812598.md) · @majidmanzarpour
+
+- **直接源码**：[对应动物生成与动画源码（MIT）](https://github.com/majidmanzarpour/threejs-procedural-animals) · MIT
+  仓库包含动物生成、绑定、IK 与展示代码；不是另行声称整条剪辑视频的时间线工程，未独立运行。
+  [链接出处](https://x.com/majidmanzarpour/status/2105723245722812598) · 链接核对 2026-10-16 06:52 UTC
 
 ## [可拆解聚变反应堆讲解](../cases/2104216976801587629.md) · @konstantinsaifo
 
@@ -382,22 +757,110 @@
 - **公开网页**：[户型装修 2D / 3D 演示](https://wy51ai.github.io/floorplan-3d/)
   [链接出处](https://x.com/akokoi1/status/2104771886236553568) · 链接核对 2026-09-29 05:50 UTC
 
+## [海浪中的哥特城堡着色器](../cases/2102441628661080384.md) · @emollick
+
+- **公开网页**：[作者提供的着色器演示入口](https://twigl.app/?ol=true&ss=-P291BpUn5JvZhohk-c0)
+  原帖直接链接，页面源码与许可本轮未读取。
+  [链接出处](https://x.com/emollick/status/2102441628661080384) · 链接核对 2026-10-16 07:18 UTC
+
+## [从道路驶向天空的概念摩托](../cases/2114377433369739331.md) · @thebuggeddev
+
+- **公开网页**：[飞行摩托的交互演示](https://brant-airster.wasmer.app/)
+  [链接出处](https://x.com/thebuggeddev/status/2114377433369739331) · 链接核对 2026-10-26 06:26 UTC
+
 ## [Heatsink：城市无人机竞速游戏](../cases/2107973550300856334.md) · @aniketjart
 
 - **公开网页**：[Heatsink 试玩](https://app.usecrayon.ai/play/4698c657-3950-438a-9b64-b5fe778fcfda)
   作者原帖链接到对应作品网页；未核得完整工程或整体复用许可。
   [链接出处](https://x.com/aniketjart/status/2107973550300856334) · 链接核对 2026-10-08 14:36 UTC
 
+## [穿过里斯本的无尽电车](../cases/2103465304039076319.md) · @thebuggeddev
+
+- **公开网页**：[作者公开的在线体验](https://endless-train.wasmer.app/)
+  [链接出处](https://x.com/thebuggeddev/status/2103465304039076319) · 链接核对 2026-10-20 17:09 UTC
+- **直接源码**：[里斯本电车的作品源码](https://github.com/thebuggeddev/endless-train) · 未标明许可
+  仓库提供对应场景实现；未发现整体许可证。
+  [链接出处](https://x.com/thebuggeddev/status/2103465304039076319) · 链接核对 2026-10-20 17:09 UTC
+
 ## [浏览器中的火箭车足球](../cases/2104800823620632641.md) · @BlendiByl
 
 - **公开网页**：[作者公开试玩页](https://soccar-one.vercel.app/)
   [链接出处](https://x.com/BlendiByl/status/2104800823620632641) · 链接核对 2026-09-29 08:35 UTC
+
+## [Boba Bar：三维奶茶配制动画](../cases/2111140364275052719.md) · @techartist\_
+
+- **直接源码**：[作品工程源码](https://github.com/iamtechartist/boba-bar) · MIT
+  代码许可证为 MIT；未独立复现，素材权利另行核对。
+  [链接出处](https://x.com/techartist_/status/2111140366451953910) · 链接核对 2026-10-18 08:00 UTC
+- **公开网页**：[作者交互演示](https://iamtechartist.github.io/boba-bar/)
+  [链接出处](https://x.com/techartist_/status/2111140366451953910) · 链接核对 2026-10-18 08:00 UTC
+
+## [森林立体蛇棋](../cases/2107106516918743153.md) · @thebuggeddev
+
+- **公开网页**：[作者作品体验入口](https://snakeboard.wasmer.app/)
+  作者原帖链接；本轮未验证完整交互与可用性。
+  [链接出处](https://x.com/thebuggeddev/status/2107106516918743153) · 链接核对 2026-10-19 09:12 UTC
+
+## [浏览器里的赛车设计与试驾](../cases/2111502236761415768.md) · @RyanSael
+
+- **公开网页**：[作者作品体验入口](https://sael.net/test-drive)
+  作者原帖链接；本轮未验证完整交互与可用性。
+  [链接出处](https://x.com/RyanSael/status/2111502236761415768) · 链接核对 2026-10-19 09:12 UTC
+
+## [Ashcombe Mill：溪流与磨坊场景](../cases/2111187771440370028.md) · @techartist\_
+
+- **直接源码**：[作品工程源码](https://github.com/iamtechartist/ashcombe-mill) · MIT
+  代码许可证为 MIT；未独立复现，素材权利另行核对。
+  [链接出处](https://x.com/techartist_/status/2111187773722124685) · 链接核对 2026-10-18 08:00 UTC
+- **公开网页**：[作者交互演示](https://iamtechartist.github.io/ashcombe-mill/)
+  [链接出处](https://x.com/techartist_/status/2111187773722124685) · 链接核对 2026-10-18 08:00 UTC
+
+## [黑曜石、教堂与巨鲸](../cases/2106848293678620860.md) · @techartist\_
+
+- **直接源码**：[对应作品源码](https://github.com/iamtechartist/obsidian) · [MIT](https://github.com/iamtechartist/obsidian/blob/main/LICENSE)
+  [链接出处](https://x.com/techartist_/status/2106848293678620860) · 链接核对 2026-10-15 10:24 UTC
+- **公开网页**：[作者在线演示](https://iamtechartist.github.io/obsidian/)
+  [链接出处](https://github.com/iamtechartist/obsidian) · 链接核对 2026-10-15 10:24 UTC
+
+## [漂浮群山中的飞行世界](../cases/2108588869255827570.md) · @0xRhinoX
+
+- **公开网页**：[作者作品体验入口](https://aeloria.pokeable.app/)
+  作者原帖链接；本轮未验证完整交互与可用性。
+  [链接出处](https://x.com/0xRhinoX/status/2108588869255827570) · 链接核对 2026-10-19 09:12 UTC
+
+## [浴球的三维染色与水流模拟](../cases/2111219143936790802.md) · @techartist\_
+
+- **直接源码**：[作品工程源码](https://github.com/iamtechartist/bath-bomb-builder) · MIT
+  代码许可证为 MIT；未独立复现，素材权利另行核对。
+  [链接出处](https://x.com/techartist_/status/2111219146109411690) · 链接核对 2026-10-18 08:00 UTC
+- **公开网页**：[作者交互演示](https://iamtechartist.github.io/bath-bomb-builder/)
+  [链接出处](https://x.com/techartist_/status/2111219146109411690) · 链接核对 2026-10-18 08:00 UTC
+
+## [旧金山上空的 SaaS 飞机](../cases/2108267057485898032.md) · @donaldjewkes
+
+- **公开网页**：[作者作品体验入口](https://slop.inc/)
+  作者原帖链接；本轮未验证完整交互与可用性。
+  [链接出处](https://x.com/donaldjewkes/status/2108267057485898032) · 链接核对 2026-10-19 09:24 UTC
 
 ## [Mars GT：红色峡谷中的驾驶演示](../cases/2106449409978626416.md) · @AndreiProvkin
 
 - **公开网页**：[Mars GT 公开作品页](https://mars-gt.vercel.app/)
   作者原帖提供该域名，HTTPS 页面署名为同一作者，并注明参考图作者。页面显示驾驶键位；本轮未完成驾驶操作核验。
   [链接出处](https://x.com/AndreiProvkin/status/2106449409978626416) · 链接核对 2026-10-04 08:31 UTC
+
+## [Hidden Lagoons 丛林河道探索](../cases/2103506302693450100.md) · @Aurelien\_Gz
+
+- **公开网页**：[作者作品体验入口](https://hidden-lagoons.netlify.app/)
+  作者原帖链接；本轮未验证完整交互与可用性。
+  [链接出处](https://x.com/Aurelien_Gz/status/2103506302693450100) · 链接核对 2026-10-19 09:12 UTC
+
+## [信纸上的数字蜡封](../cases/2113686216327802927.md) · @thebuggeddev
+
+- **直接源码**：[数字蜡封的公开代码](https://github.com/thebuggeddev/wax-stamp) · 未标明许可
+  已核对公开仓库与场景入口，当前未找到许可证；公开可读不表示获得复用许可。
+  [链接出处](https://x.com/thebuggeddev/status/2113686216327802927) · 链接核对 2026-10-24 12:19 UTC
+- **公开网页**：[数字蜡封演示](https://wax-stamp.wasmer.app/)
+  [链接出处](https://x.com/thebuggeddev/status/2113686216327802927) · 链接核对 2026-10-24 12:19 UTC
 
 ## [Skyhold：用建筑平衡浮空岛](../cases/2108495368585371666.md) · @0xbobaaa
 
@@ -411,11 +874,24 @@
   作者原帖链接到对应作品页面；HTTP 可达，完整工程与整体复用许可另行核对。
   [链接出处](https://x.com/LexnLin/status/2108301624515137601) · 链接核对 2026-10-09 04:12 UTC
 
+## [芯片工厂的三维工序](../cases/2113564577636163648.md) · @RyanSael
+
+- **公开网页**：[芯片工厂的三维交互](https://sael.net/chip-fab)
+  [链接出处](https://x.com/RyanSael/status/2113564577636163648) · 链接核对 2026-10-24 12:19 UTC
+
 ## [DYSTOPIA：雨夜浏览器城市](../cases/2109107708192284923.md) · @cryptomanavan
 
 - **公开网页**：[DYSTOPIA 浏览器城市](https://dystopia-noir.netlify.app/)
   作者提供的公开网页；需要 WebGPU，作品仍在开发中，未完成完整试玩。
   [链接出处](https://x.com/cryptomanavan/status/2109107708192284923) · 链接核对 2026-10-11 15:09 UTC
+
+## [浏览器里的刚体与布料](../cases/2103385835328680050.md) · @nybobs
+
+- **直接源码**：[刚体场景与求解器源码](https://github.com/sbobyn/three-avbd) · [MIT](https://github.com/sbobyn/three-avbd/blob/main/LICENSE)
+  代码采用 MIT；仓库另列第三方软件声明，复用时须保留相应通知。
+  [链接出处](https://x.com/nybobs/status/2103385835328680050) · 链接核对 2026-10-24 12:19 UTC
+- **公开网页**：[浏览器刚体物理演示](https://three-avbd.vercel.app/)
+  [链接出处](https://x.com/nybobs/status/2103385835328680050) · 链接核对 2026-10-24 12:19 UTC
 
 ## [Falcon 9 着陆交互模拟](../cases/2109061641027678483.md) · @konstantinsaifo
 
@@ -443,6 +919,11 @@
 - **公开网页**：[ENDGAME 试玩](https://www.spawn.co/@majid/endgame/play)
   同作者直接回复该原帖的作品链接，已确认网页可访问；作品工程与整体复用许可未核得。
   [链接出处](https://x.com/majidmanzarpour/status/2107633027920920824) · 链接核对 2026-10-09 04:02 UTC
+
+## [粒子与光带组成的海滨夜景](../cases/2102920408743678129.md) · @ishuagra02
+
+- **公开网页**：[作者公开的交互场景](https://particle-beach.vercel.app/)
+  [链接出处](https://x.com/ishuagra02/status/2102920408743678129) · 链接核对 2026-10-22 08:41 UTC
 
 ## [Ladprao Flood Ski：排水与水上追逐](../cases/2103966021451465008.md) · @vibechine
 
@@ -655,6 +1136,45 @@
   作者原帖提供的网页可读取；本次未确认游戏启动交互，未完成完整试玩。
   [链接出处](https://x.com/filiptehking/status/2109170164532928698) · 链接核对 2026-10-11 15:09 UTC
 
+## [彩色墨迹覆盖的三维对战场](../cases/2103357848961036304.md) · @JaydenDavisNC
+
+- **公开网页**：[作者的彩色墨迹对战演示](https://inkwave-six.vercel.app/)
+  [链接出处](https://x.com/JaydenDavisNC/status/2103357848961036304) · 链接核对 2026-10-26 16:17 UTC
+
+## [Roadster 的特技赛道与多人竞速](../cases/2111519266898169925.md) · @aymericrabot
+
+- **公开网页**：[作者的 Roadster 竞速演示](https://www.aymeric.dev/roadster)
+  [链接出处](https://x.com/aymericrabot/status/2111519266898169925) · 链接核对 2026-10-26 15:15 UTC
+
+## [实时访客变成球体与岛屿](../cases/2107683152865173619.md) · @RyanSael
+
+- **公开网页**：[实时访客三维演示](https://sael.net/here)
+  [链接出处](https://x.com/RyanSael/status/2107683152865173619) · 链接核对 2026-11-02 09:52 UTC
+
+## [机械蜜蜂的光学结构与拆解](../cases/2116192984299344372.md) · @elvar\_official
+
+- **相关工具**：[机械拆解通用制作 Skill](https://github.com/elvarofficial/teardown) · [MIT](https://github.com/elvarofficial/teardown/blob/main/LICENSE)
+  原帖引用的制作方法所链接的通用工具；不等同于这支影片的完整工程。
+  [链接出处](https://x.com/elvar_official/status/2116174609355571402) · 链接核对 2026-11-02 08:50 UTC
+
+## [机械蝎子的步态与全身拆解](../cases/2116277601794724232.md) · @Nyxera0x
+
+- **相关工具**：[机械拆解通用制作 Skill](https://github.com/elvarofficial/teardown) · [MIT](https://github.com/elvarofficial/teardown/blob/main/LICENSE)
+  原帖引用的制作方法所链接的通用工具；不等同于这支影片的完整工程。
+  [链接出处](https://x.com/elvar_official/status/2116174609355571402) · 链接核对 2026-11-02 08:50 UTC
+
+## [机械章鱼的镜头、触腕与拆解](../cases/2116289885870981296.md) · @0x\_fokki
+
+- **相关工具**：[机械拆解通用制作 Skill](https://github.com/elvarofficial/teardown) · [MIT](https://github.com/elvarofficial/teardown/blob/main/LICENSE)
+  原帖引用的制作方法所链接的通用工具；不等同于这支影片的完整工程。
+  [链接出处](https://x.com/elvar_official/status/2116174609355571402) · 链接核对 2026-11-02 08:50 UTC
+
+## [机械蜻蜓起飞与零件展开](../cases/2116880857893838998.md) · @averix\_official
+
+- **相关工具**：[机械拆解通用制作 Skill](https://github.com/elvarofficial/teardown) · [MIT](https://github.com/elvarofficial/teardown/blob/main/LICENSE)
+  原帖引用的制作方法所链接的通用工具；不等同于这支影片的完整工程。
+  [链接出处](https://x.com/elvar_official/status/2116174609355571402) · 链接核对 2026-11-02 08:50 UTC
+
 ## [记忆褪成水彩：代码绘制的短片](../cases/2104186357824487573.md) · @techartist\_
 
 - **直接源码**：[Memory Fading into Watercolor 源码](https://github.com/iamtechartist/memory-fading-into-watercolor) · [MIT](https://github.com/iamtechartist/memory-fading-into-watercolor/blob/0bcc7cedfa9b0323437d746916174c9bba34026e/LICENSE)
@@ -696,6 +1216,39 @@
 - **直接源码**：[作者公开的作品工程与制作资料](https://github.com/DDChen666/civilization-film) · [MIT](https://github.com/DDChen666/civilization-film/blob/main/LICENSE)
   [链接出处](https://github.com/DDChen666/civilization-film/blob/main/LICENSE-MEDIA.md) · 链接核对 2026-10-13 07:50 UTC
 
+## [Raven 从破壳到飞行的代码成长史](../cases/2103032879496540640.md) · @hylarucoder
+
+- **相关工具**：[git-story-film 通用制作 Skill](https://github.com/EverMind-AI/Raven/tree/main/skills/git-story-film) · [Apache-2.0](https://github.com/EverMind-AI/Raven/blob/main/LICENSE)
+  Raven 仓库代码采用 Apache-2.0；改编自 Alexey Fateev 的绘图引擎另保留 MIT 许可。通用工具不等于本片完整工程。
+  [链接出处](https://x.com/hylarucoder/status/2104076282107723935) · 链接核对 2026-11-02 09:52 UTC
+- **直接源码**：[Raven 示例影片代码与中文版本](https://github.com/EverMind-AI/Raven/tree/main/skills/git-story-film/examples/raven-story) · [Apache-2.0](https://github.com/EverMind-AI/Raven/blob/main/LICENSE)
+  示例依赖同目录绘图引擎；引擎改编代码须保留 MIT 声明，字体另有 OFL 条款。
+  [链接出处](https://github.com/EverMind-AI/Raven/blob/main/skills/git-story-film/README.zh-CN.md) · 链接核对 2026-11-02 09:52 UTC
+
+## [CC Switch 总机墙的生长故事](../cases/2103768558429958335.md) · @hylarucoder
+
+- **相关工具**：[git-story-film 通用制作 Skill](https://github.com/EverMind-AI/Raven/tree/main/skills/git-story-film) · [Apache-2.0](https://github.com/EverMind-AI/Raven/blob/main/LICENSE)
+  Raven 仓库代码采用 Apache-2.0；改编自 Alexey Fateev 的绘图引擎另保留 MIT 许可。通用工具不等于本片完整工程。
+  [链接出处](https://x.com/hylarucoder/status/2104076282107723935) · 链接核对 2026-11-02 09:52 UTC
+
+## [LobeHub 脑洞与火星的仓库故事](../cases/2103868710561911209.md) · @hylarucoder
+
+- **相关工具**：[git-story-film 通用制作 Skill](https://github.com/EverMind-AI/Raven/tree/main/skills/git-story-film) · [Apache-2.0](https://github.com/EverMind-AI/Raven/blob/main/LICENSE)
+  Raven 仓库代码采用 Apache-2.0；改编自 Alexey Fateev 的绘图引擎另保留 MIT 许可。通用工具不等于本片完整工程。
+  [链接出处](https://x.com/hylarucoder/status/2104076282107723935) · 链接核对 2026-11-02 09:52 UTC
+
+## [Cherry Studio 樱桃树的成长故事](../cases/2104037017873162442.md) · @hylarucoder
+
+- **相关工具**：[git-story-film 通用制作 Skill](https://github.com/EverMind-AI/Raven/tree/main/skills/git-story-film) · [Apache-2.0](https://github.com/EverMind-AI/Raven/blob/main/LICENSE)
+  Raven 仓库代码采用 Apache-2.0；改编自 Alexey Fateev 的绘图引擎另保留 MIT 许可。通用工具不等于本片完整工程。
+  [链接出处](https://x.com/hylarucoder/status/2104076282107723935) · 链接核对 2026-11-02 09:52 UTC
+
+## [小王子星球旅行的剪纸动画](../cases/2114942260353868116.md) · @Saccc\_c
+
+- **相关工具**：[huashu-art-motion 艺术动画 Skill](https://github.com/alchaincyf/huashu-art-motion) · [MIT](https://github.com/alchaincyf/huashu-art-motion/blob/main/LICENSE)
+  通用制作工具，代码与文档采用 MIT；字体沿用 OFL、笔顺数据沿用 Arphic Public License，花叔角色素材与 Clawd 示范影片不随 MIT 授权。不等同于本支小王子短片的完整源码或许可。
+  [链接出处](https://x.com/Saccc_c/status/2114942260353868116) · 链接核对 2026-11-03 09:18 UTC
+
 ## [功能性情绪论文歌曲影像](../cases/2102610626321490404.md) · @eudaemonea
 
 - **直接源码**：[Functional Emotions 动画工程](https://github.com/ledbetterljoshua/functional-emotions-video) · [MIT](https://github.com/ledbetterljoshua/functional-emotions-video/blob/b34c20a4f8f64ee87079a2ae2fdedf2cf1990a49/LICENSE)
@@ -715,6 +1268,12 @@
 - **公开网页**：[交互歌词播放器](https://player.bizar.ro/)
   公开网页；作者说明本地演示中的失真及音频反应效果未包含在网页版本中。
   [链接出处](https://x.com/LuisBizarro/status/2105174061697618314) · 链接核对 2026-09-30 10:04 UTC
+
+## [命运：古典音乐的代码可视化 MV](../cases/2106674256855617890.md) · @jtydhr88
+
+- **直接源码**：[《命运》MV 对应源码](https://github.com/jtydhr88/fate-pv) · 未标明许可
+  已核对影片章节、工程与渲染入口。仓库明确 MIT 的是引用的 pdoom 引擎；不据此声称整部作品或音乐均为 MIT。未独立运行。
+  [链接出处](https://x.com/jtydhr88/status/2106674256855617890) · 链接核对 2026-10-16 07:22 UTC
 
 ## [GenMotion 制作的 P(doom) 音乐视频](../cases/2105282502726484258.md) · @haxzie\_
 
@@ -745,3 +1304,17 @@
 - **相关工具**：[Claude Animation Base 动画基础](https://github.com/JohnHeibel/ClaudeAnimationBase) · [MIT](https://github.com/JohnHeibel/ClaudeAnimationBase/blob/0ac8bf2b31942376cb6b8c4074715595d512acd2/LICENSE)
   作者列明的动画基础工具，使用 p5.js 与 p5.brush；不是该音乐改编的完整工程。
   [链接出处](https://x.com/DFakkeldy/status/2106883204762185728) · 链接核对 2026-10-06 16:26 UTC
+
+## [波斯诗中的月亮与粒子苍穹](../cases/2103784499125559530.md) · @kimziify
+
+- **公开网页**：[作者的诗歌可视化合集](https://kimzify.github.io/naqsh-e-khiyal/)
+  [链接出处](https://x.com/kimziify/status/2103784499125559530) · 链接核对 2026-10-26 15:15 UTC
+- **直接源码**：[诗歌动画与合成音乐项目源码](https://github.com/Kimzify/naqsh-e-khiyal) · [MIT](https://github.com/Kimzify/naqsh-e-khiyal/blob/main/LICENSE)
+  代码采用 MIT；译文、场景设计、音乐与预览图另采用 CC BY 4.0，详见仓库 LICENSE-CONTENT.md；字体遵循各自许可。
+  [链接出处](https://x.com/kimziify/status/2103784499125559530) · 链接核对 2026-10-26 15:15 UTC
+
+## [铜版画线条构成的竖屏歌词 MV](../cases/2107826563786084783.md) · @okazaky
+
+- **直接源码**：[本片分镜、场景代码与修改记录](https://github.com/okazaky/claude-skill-lyric-mv-3d/tree/main/examples/yoru-code) · [MIT](https://github.com/okazaky/claude-skill-lyric-mv-3d/blob/main/LICENSE)
+  改编自 Giacomo Magnanini 的 mexicat/pdoom-video；仓库不含歌曲与歌词文件，代码许可不覆盖这些素材。
+  [链接出处](https://x.com/okazaky/status/2107826563786084783) · 链接核对 2026-11-02 08:50 UTC

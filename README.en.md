@@ -8,7 +8,7 @@ Extraordinary motion. New creative possibilities. · [简体中文](README.md)
 
 **[Explore the gallery ↗](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)** &nbsp; · &nbsp; [Submit a work](https://github.com/guanmo-ai/awesome-ai-motion/issues/new?template=submit.yml)
 
-<sub>811 works &nbsp; · &nbsp; Click the mosaic to open the gallery</sub>
+<sub>2068 works &nbsp; · &nbsp; Click the mosaic to open the gallery</sub>
 
 <a id="spotlights"></a>
 
@@ -18,24 +18,24 @@ Ranked by bookmarks and publication date, giving popular recent work more weight
 
 <table>
 <tr>
+<td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2112940162103615783"><img src="assets/readme-covers/2112940162103615783.svg" width="260" alt="Assembling Circuit Boards Part by Part"></a></td>
+<td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109962425512734739"><img src="assets/readme-covers/2109962425512734739.svg" width="260" alt="The Little Prince: Across the Stars Trailer"></a></td>
+<td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2111927727318245426"><img src="assets/readme-covers/2111927727318245426.svg" width="260" alt="Earshot: Every Sound Is Code"></a></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><strong>Assemb&#8203;ling Circui&#8203;t Boards Part by Part</strong><br><sub><a href="https://x.com/0xMovez">@0xMove&#8203;z</a></sub><br><sub>Bookmarks 7,914 · 2026-10-21</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2112940162103615783">Watch ↗</a> · <a href="https://x.com/0xMovez/status/2112940162103615783">Original</a></td>
+<td width="33%" valign="top"><strong>The Little Prince: Across the Stars Traile&#8203;r</strong><br><sub><a href="https://x.com/Saccc_c">@Saccc_&#8203;c</a></sub><br><sub>Bookmarks 9,884 · 2026-10-13</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109962425512734739">Watch ↗</a> · <a href="https://x.com/Saccc_c/status/2109962425512734739">Original</a></td>
+<td width="33%" valign="top"><strong>Earsho&#8203;t: Every Sound Is Code</strong><br><sub><a href="https://x.com/LexnLin">@LexnLi&#8203;n</a></sub><br><sub>Bookmarks 7,155 · 2026-10-18</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2111927727318245426">Watch ↗</a> · <a href="https://x.com/LexnLin/status/2111927727318245426">Original</a></td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103273003555402193"><img src="assets/readme-covers/2103273003555402193.svg" width="260" alt="One shape, a seamless UI morph loop"></a></td>
+<td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2113392757548941441"><img src="assets/readme-covers/2113392757548941441.svg" width="260" alt="A Graphic Fable about AI's Future"></a></td>
 <td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106426962738880879"><img src="assets/readme-covers/2106426962738880879.svg" width="260" alt="Wareflow: a strategy-game-style warehouse interface"></a></td>
-<td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108948624004526516"><img src="assets/readme-covers/2108948624004526516.svg" width="260" alt="Anatomy: Working Machine Illustrations"></a></td>
 </tr>
 <tr>
 <td width="33%" valign="top"><strong>One shape, a seamle&#8203;ss UI morph loop</strong><br><sub><a href="https://x.com/twoclipping">@twocli&#8203;pping</a></sub><br><sub>Bookmarks 19,303 · 2026-09-24</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103273003555402193">Watch ↗</a> · <a href="https://x.com/twoclipping/status/2103273003555402193">Original</a></td>
+<td width="33%" valign="top"><strong>A Graphi&#8203;c Fable about AI's Future</strong><br><sub><a href="https://x.com/Skoorbkaz">@Skoorb&#8203;kaz</a></sub><br><sub>Bookmarks 4,325 · 2026-10-22</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2113392757548941441">Watch ↗</a> · <a href="https://x.com/Skoorbkaz/status/2113392757548941441">Original</a></td>
 <td width="33%" valign="top"><strong>Warefl&#8203;ow: a strate&#8203;gy-game-style wareho&#8203;use interf&#8203;ace</strong><br><sub><a href="https://x.com/DilumSanjaya">@DilumS&#8203;anjaya</a></sub><br><sub>Bookmarks 10,714 · 2026-10-03</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106426962738880879">Watch ↗</a> · <a href="https://x.com/DilumSanjaya/status/2106426962738880879">Original</a></td>
-<td width="33%" valign="top"><strong>Anatom&#8203;y: Workin&#8203;g Machin&#8203;e Illust&#8203;ration&#8203;s</strong><br><sub><a href="https://x.com/wheresryan22">@wheres&#8203;ryan22</a></sub><br><sub>Bookmarks 6,423 · 2026-10-10</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108948624004526516">Watch ↗</a> · <a href="https://x.com/wheresryan22/status/2108948624004526516">Original</a></td>
-</tr>
-<tr>
-<td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103315922098470926"><img src="assets/readme-covers/2103315922098470926.svg" width="260" alt="A 15-second motion design showreel"></a></td>
-<td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109257723246501895"><img src="assets/readme-covers/2109257723246501895.svg" width="260" alt="A Transparent CD Case with an Animated Lid"></a></td>
-<td width="33%" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102591147927654847"><img src="assets/readme-covers/2102591147927654847.svg" width="260" alt="An interactive camera lens lab"></a></td>
-</tr>
-<tr>
-<td width="33%" valign="top"><strong>A 15-second motion design showre&#8203;el</strong><br><sub><a href="https://x.com/stephanlivera">@stepha&#8203;nliver&#8203;a</a></sub><br><sub>Bookmarks 11,692 · 2026-09-25</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2103315922098470926">Watch ↗</a> · <a href="https://x.com/stephanlivera/status/2103315922098470926">Original</a></td>
-<td width="33%" valign="top"><strong>A Transp&#8203;arent CD Case with an Animat&#8203;ed Lid</strong><br><sub><a href="https://x.com/ann_nnng">@ann_nn&#8203;ng</a></sub><br><sub>Bookmarks 3,816 · 2026-10-11</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109257723246501895">Watch ↗</a> · <a href="https://x.com/ann_nnng/status/2109257723246501895">Original</a></td>
-<td width="33%" valign="top"><strong>An intera&#8203;ctive camera lens lab</strong><br><sub><a href="https://x.com/RyanSael">@RyanSa&#8203;el</a></sub><br><sub>Bookmarks 9,188 · 2026-09-23</sub><br><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102591147927654847">Watch ↗</a> · <a href="https://x.com/RyanSael/status/2102591147927654847">Original</a></td>
 </tr>
 </table>
 
@@ -45,13 +45,13 @@ Ranked by bookmarks and publication date, giving popular recent work more weight
 
 | Explore | What you will find | Works |
 | :-- | :-- | --: |
-| <a id="category-product"></a>[Product & marketing](browse/product.en.md) | Product stories, interfaces and brand launches | 154 |
-| <a id="category-education"></a>[Education & explainers](browse/education.en.md) | Visual explanations of complex ideas | 157 |
-| <a id="category-motion"></a>[Motion design](browse/motion.en.md) | Timing, typography, morphs and transitions | 105 |
-| <a id="category-characters"></a>[Pixel art & characters](browse/characters.en.md) | Character performance, pixel art and style | 56 |
-| <a id="category-interactive"></a>[3D & interactive](browse/interactive.en.md) | Responsive spaces and physical simulations | 199 |
-| <a id="category-stories"></a>[Narrative films](browse/stories.en.md) | Storyboards, cinematography and complete films | 78 |
-| <a id="category-music"></a>[Music & lyrics](browse/music.en.md) | Music, visuals and emotion in sync | 62 |
+| <a id="category-product"></a>[Product & marketing](browse/product.en.md) | Product stories, interfaces and brand launches | 402 |
+| <a id="category-education"></a>[Education & explainers](browse/education.en.md) | Visual explanations of complex ideas | 430 |
+| <a id="category-motion"></a>[Motion design](browse/motion.en.md) | Timing, typography, morphs and transitions | 295 |
+| <a id="category-characters"></a>[Pixel art & characters](browse/characters.en.md) | Character performance, pixel art and style | 164 |
+| <a id="category-interactive"></a>[3D & interactive](browse/interactive.en.md) | Responsive spaces and physical simulations | 455 |
+| <a id="category-stories"></a>[Narrative films](browse/stories.en.md) | Storyboards, cinematography and complete films | 190 |
+| <a id="category-music"></a>[Music & lyrics](browse/music.en.md) | Music, visuals and emotion in sync | 132 |
 
 [Search, filter and watch all works in the gallery →](https://guanmo-ai.github.io/awesome-ai-motion/?lang=en)
 
@@ -78,21 +78,21 @@ Ranked by bookmarks and publication date, giving popular recent work more weight
 <tbody>
 <tr>
 <td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106426962738880879"><img src="assets/covers/2106426962738880879.jpg" width="390" alt="Wareflow: a strategy-game-style warehouse interface"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102591147927654847"><img src="assets/covers/2102591147927654847.jpg" width="400" alt="An interactive camera lens lab"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109962425512734739"><img src="assets/covers/2109962425512734739.jpg" width="400" alt="The Little Prince: Across the Stars Trailer"></a></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><strong>Wareflow: a strategy-game-style warehouse interface</strong><br><sub><a href="https://x.com/DilumSanjaya">@DilumSanjaya</a> · 3D &amp; interactive</sub><br><sub>1:12 · Bookmarks 10,714 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2106426962738880879">▶ Play</a> · <a href="https://x.com/DilumSanjaya/status/2106426962738880879">Original post</a></td>
-<td width="50%" valign="top"><strong>An interactive camera lens lab</strong><br><sub><a href="https://x.com/RyanSael">@RyanSael</a> · Education &amp; explainers</sub><br><sub>0:32 · Bookmarks 9,188</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102591147927654847">▶ Play</a> · <a href="https://x.com/RyanSael/status/2102591147927654847">Original post</a></td>
+<td width="50%" valign="top"><strong>The Little Prince: Across the Stars Trailer</strong><br><sub><a href="https://x.com/Saccc_c">@Saccc_c</a> · 3D &amp; interactive</sub><br><sub>1:03 · Bookmarks 9,884 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2109962425512734739">▶ Play</a> · <a href="https://x.com/Saccc_c/status/2109962425512734739">Original post</a></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102801274173587569"><img src="assets/covers/2102801274173587569.jpg" width="400" alt="Claude Pop: a mixed-workflow music video"></a></td>
-<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108948624004526516"><img src="assets/covers/2108948624004526516.jpg" width="400" alt="Anatomy: Working Machine Illustrations"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102591147927654847"><img src="assets/covers/2102591147927654847.jpg" width="400" alt="An interactive camera lens lab"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2112940162103615783"><img src="assets/covers/2112940162103615783.jpg" width="267" alt="Assembling Circuit Boards Part by Part"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>Claude Pop: a mixed-workflow music video</strong><br><sub><a href="https://x.com/donaldjewkes">@donaldjewkes</a> · Music &amp; lyrics</sub><br><sub>2:22 · Bookmarks 8,096</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102801274173587569">▶ Play</a> · <a href="https://x.com/donaldjewkes/status/2102801274173587569">Original post</a></td>
-<td width="50%" valign="top"><strong>Anatomy: Working Machine Illustrations</strong><br><sub><a href="https://x.com/wheresryan22">@wheresryan22</a> · 3D &amp; interactive</sub><br><sub>0:39 · Bookmarks 6,423 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2108948624004526516">▶ Play</a> · <a href="https://x.com/wheresryan22/status/2108948624004526516">Original post</a></td>
+<td width="50%" valign="top"><strong>An interactive camera lens lab</strong><br><sub><a href="https://x.com/RyanSael">@RyanSael</a> · Education &amp; explainers</sub><br><sub>0:32 · Bookmarks 9,188</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2102591147927654847">▶ Play</a> · <a href="https://x.com/RyanSael/status/2102591147927654847">Original post</a></td>
+<td width="50%" valign="top"><strong>Assembling Circuit Boards Part by Part</strong><br><sub><a href="https://x.com/0xMovez">@0xMovez</a> · Education &amp; explainers</sub><br><sub>0:46 · Bookmarks 7,914 · Details pending</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/?lang=en#case-2112940162103615783">▶ Play</a> · <a href="https://x.com/0xMovez/status/2112940162103615783">Original post</a></td>
 </tr>
 </tbody>
 </table>
