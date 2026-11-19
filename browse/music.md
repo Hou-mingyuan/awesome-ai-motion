@@ -2,7 +2,7 @@
 
 # 音乐与歌词
 
-132 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
+136 个作品。点击封面播放；没有画廊视频时会前往 X 原帖。
 
 <table>
 <tbody>
@@ -663,6 +663,26 @@
 <tr>
 <td width="50%" valign="top"><strong>随音乐变化的三维灯光房间</strong><br><sub><a href="https://x.com/shmopixbzn">@shmopixbzn</a> · 音乐与歌词</sub><br><sub>0:32 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2109943654873784569">▶ 播放</a> · <a href="https://x.com/shmopixbzn/status/2109943654873784569">原帖</a></td>
 <td width="50%" valign="top"><strong>棉花糖与祭典的插画音乐动画</strong><br><sub><a href="https://x.com/nemumusitocha">@nemumusitocha</a> · 音乐与歌词</sub><br><sub>2:38 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2115439864271577420">▶ 播放</a> · <a href="https://x.com/nemumusitocha/status/2115439864271577420">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2117077271823691935"><img src="../assets/covers/2117077271823691935.jpg" width="400" alt="一个音符穿过贝斯的旅程"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119903338078564844"><img src="../assets/covers/2119903338078564844.jpg" width="400" alt="口袋合成器：琴键与旋钮的近景节奏"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>一个音符穿过贝斯的旅程</strong><br><sub><a href="https://x.com/akiyoshisan">@akiyoshisan</a> · 音乐与歌词</sub><br><sub>0:33 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2117077271823691935">▶ 播放</a> · <a href="https://x.com/akiyoshisan/status/2117077271823691935">原帖</a></td>
+<td width="50%" valign="top"><strong>口袋合成器：琴键与旋钮的近景节奏</strong><br><sub><a href="https://x.com/AmirMushich">@AmirMushich</a> · 音乐与歌词</sub><br><sub>0:10 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2119903338078564844">▶ 播放</a> · <a href="https://x.com/AmirMushich/status/2119903338078564844">原帖</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2120014216753262816"><img src="../assets/covers/2120014216753262816.jpg" width="400" alt="Voice だけでいい：日文歌词动态排版"></a></td>
+<td width="50%" height="225" align="center" valign="middle"><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2120948511038648596"><img src="../assets/covers/2120948511038648596.jpg" width="225" alt="磁带店里的八十年代音乐短片"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Voice だけでいい：日文歌词动态排版</strong><br><sub><a href="https://x.com/takamasa045">@takamasa045</a> · 音乐与歌词</sub><br><sub>0:53 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2120014216753262816">▶ 播放</a> · <a href="https://x.com/takamasa045/status/2120014216753262816">原帖</a></td>
+<td width="50%" valign="top"><strong>磁带店里的八十年代音乐短片</strong><br><sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · 音乐与歌词</sub><br><sub>2:19 · 收藏 — · 资料待完善</sub><br><a href="https://guanmo-ai.github.io/awesome-ai-motion/#case-2120948511038648596">▶ 播放</a> · <a href="https://x.com/kevin_t_ngo/status/2120948511038648596">原帖</a></td>
 </tr>
 </tbody>
 </table>
